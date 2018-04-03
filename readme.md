@@ -18,6 +18,8 @@ Enlace del [Reto de Maquetación](https://desafio-openlab-frontend.mybluemix.net
 
 ## Modo de entrega
 
-Enviar un correo a: fisi.openlab@gmail.com 
+Enviar un correo a: fisi.openlab@gmail.com
+
 Incluyendo en el asunto: Nombre_RetoFront
+
 Contenido: Repositorio Git o zip del proyecto
